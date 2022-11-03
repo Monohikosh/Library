@@ -1,6 +1,6 @@
 package HW3_Part2;
 
-public class HW3_Part2_Task1 {
+public class Test {
     public static void main(String[] args) {
         // Создаем 6 книг
         Book book1 = new Book("War and World", "Tolstoy");
